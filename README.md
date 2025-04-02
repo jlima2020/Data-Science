@@ -1,9 +1,5 @@
 # Data-Science
 
-[Data Science](C:\Users\Usuario\Downloads)
-
-
-
 
 ## Objetivo
 Este projeto utiliza Python para realizar análises de dados, identificando tendências que apoiam áreas estratégicas como **marketing**, **segurança da informação** e **estratégias comerciais**. Utilizamos bibliotecas como **Pandas** e **Jupyter Notebook/Google Colab** para explorar e transformar dados a partir de fontes como planilhas **Excel** e arquivos **XML**.
